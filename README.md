@@ -45,16 +45,7 @@ This project is based on DevOps training materials and further customized for in
 │ └── upload-to-s3.sh (to be added)
 └── README.md
 
-yaml
-Copy
-Edit
 
----
-
-## 📝 Notes
-
-- This is a fully working DevOps automation pipeline
-- Built for hands-on learning and interview portfolio
 
 
 
